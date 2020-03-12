@@ -6,6 +6,10 @@ An example of the map is the below where red, orange, and yellow are for more th
 
 ![Coronavirus Map for 11 March 2020 (US part not shown here)](map.PNG)
 
+Using Prophet algorithm, forecasting fot the confimed cases number was done for the upcoming 3 months. As prediction, by June we are reaching more than 300K coronavirus cases!
+
+![Coronavirus Cases Prediction for 3 Months](predictionCases.PNG)
+
 
 The data is updated daily from https://github.com/CSSEGISandData/COVID-19
 
